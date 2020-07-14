@@ -10,6 +10,7 @@ The lines for colab are :
 
 !pip install -r requirements.txt
 
+/*------------------------------------------------------------------*/
 
 If you are using Conda 
 
