@@ -8,7 +8,6 @@
 
 !pip install -r requirements.txt
 
-/*------------------------------------------------------------------*/
 
 ## If you are using Conda, use the following lines :
 
