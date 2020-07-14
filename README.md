@@ -1,6 +1,6 @@
 # Person-Re-identification
 
-## For using the torchreid code, you need to first run a few lines. The lines for colab are :
+## For using the torchreid code, you need to first run a few lines. The lines for colab are as follows:
 
 !git clone https://github.com/KaiyangZhou/deep-person-reid.git
 
