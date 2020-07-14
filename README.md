@@ -7,9 +7,11 @@ The lines for colab are :
 %cd deep-person-reid/
 !pip install -r requirements.txt
 
+
 If you are using Conda 
 Use the following lines :
 
 git clone https://github.com/KaiyangZhou/deep-person-reid.git
 cd deep-person-reid/
 pip install -r requirements.txt
+
